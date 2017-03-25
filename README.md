@@ -9,7 +9,7 @@
 
   A First Course in Programming in Statistics
 
-## 25 Recipes for Getting Started with R
+## 25 Recipes for Getting Started with R (Teetor, 2011)
 
   Excerpts from the R Cookbook
 
