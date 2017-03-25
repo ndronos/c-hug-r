@@ -11,5 +11,6 @@
 
 ## 25 Recipes for Getting Started with R
 
+  Excerpts from the R Cookbook
 
 
