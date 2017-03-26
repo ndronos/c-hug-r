@@ -51,6 +51,26 @@
 
     ___________________________________
 
+    R Statistics Examples
+    ___________________________________
+
+33  Mean, Median & Mode
+34  Linear Regression
+35  Multiple Regression
+36  Logistic Regression
+37  Normal Distribution
+38  Binomial Distribution
+39  Poisson Regression
+40  Analysis of Covariance
+41  Time Series Analysis
+42  Nonlinear Least Square
+43  Decision Tree
+44  Random Forest
+45  Survival Analysis
+46  Chi Square Tests
+
+    ___________________________________
+
     https://tutorialspoint.com/r/
     2017
 
