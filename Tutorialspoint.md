@@ -71,6 +71,16 @@
 
     ___________________________________
 
+    R Useful Resources 
+    ___________________________________
+
+    Interview Questions
+    Quick Guide
+    Useful Resources
+    Discussion
+
+    ___________________________________
+
     https://tutorialspoint.com/r/
     2017
 
