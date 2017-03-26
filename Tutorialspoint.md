@@ -37,6 +37,17 @@
 25  Web Data
 26  Database
 
+    ___________________________________
+
+    R Charts & Graphs
+    ___________________________________
+
+27  Pie Charts
+28  Bar Charts
+29  Boxplots
+30  Histograms
+31  Line Graphs
+32  Scatterplots
 
     ___________________________________
 
