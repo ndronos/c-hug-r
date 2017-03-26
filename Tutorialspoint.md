@@ -26,6 +26,20 @@
 
     ___________________________________
 
+    R Data Interfaces
+    ___________________________________
+
+20  CSV Files
+21  Excel Files
+22  Binary Files
+23  XML Files
+24  JSON Files
+25  Web Data
+26  Database
+
+
+    ___________________________________
+
     https://tutorialspoint.com/r/
     2017
 
